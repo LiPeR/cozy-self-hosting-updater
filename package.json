@@ -1,8 +1,8 @@
 {
   "name": "self-hosting-update",
   "cozy-type": "static",
-  "cozy-displayName": "Your App's Name",
+  "cozy-displayName": "CloudFlare Auto Update",
   "version": "1.0.0",
-  "description": "Your app's description",
+  "description": "Update your cloudflare domain with your IP",
   "icon-path": "main_icon.png"
 }
