@@ -2,7 +2,7 @@
   "name": "self-hosting-update",
   "cozy-type": "static",
   "cozy-displayName": "CloudFlare Auto Update",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Update your cloudflare domain with your IP",
   "icon-path": "main_icon.png"
 }
